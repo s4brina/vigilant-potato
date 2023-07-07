@@ -1,1 +1,1 @@
-# 1
+Welcome to Chicken Run! You take on the role of a brave chicken in search of corn while avoiding hungry foxes. Use the arrow keys to control your chicken: up to move up, down to move down, left to move left, and right to move right. Your goal is to collect as much corn as possible while avoiding the foxes. Be careful! If a fox catches you, it's game over. Keep an eye out for scattered corn on the screen - each corn you collect increases your score. You win when you reach a score of 50. Stay away from the foxes and gather all the corn to beat the game.
